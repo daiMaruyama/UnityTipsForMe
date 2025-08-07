@@ -6,4 +6,4 @@ UnityのショートカットやTipsまとめ（個人的アウトプット）
 
 AnimatorビューやGameビューなどを最大化して表示
 
-![Shift+Spaceの例](images/shift_space_example.png)
+![Shift+Spaceの例](images/fullscreen.png)
