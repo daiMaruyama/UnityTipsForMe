@@ -1,2 +1,9 @@
 # UnityTipsForMe
-UnityのShortCutやTipsの個人的アウトプット(予定)
+
+UnityのショートカットやTipsまとめ（個人的アウトプット）
+
+## Shift + Space　(ダブルクリックでも可能)
+
+AnimatorビューやGameビューなどを最大化して表示
+
+![Shift+Spaceの例](images/shift_space_example.png)
