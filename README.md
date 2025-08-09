@@ -6,4 +6,4 @@ UnityのショートカットやTipsまとめ（個人的アウトプット）
 
 AnimatorビューやGameビューなどを最大化して表示
 
-![Shift+Spaceの例](<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6c4aae30-5c97-43c7-a26b-22c4426d7753" />)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6c4aae30-5c97-43c7-a26b-22c4426d7753" />
