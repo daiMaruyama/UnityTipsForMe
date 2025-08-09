@@ -1,6 +1,6 @@
 # UnityTipsForMe
 
-UnityのショートカットやTipsまとめ（個人的アウトプット）
+Unity,Visual StudioのショートカットやTipsまとめ（個人的アウトプット）
 
 ## Shift + Space　(ダブルクリックでも可能)
 
