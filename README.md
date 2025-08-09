@@ -7,3 +7,7 @@ Unity,Visual StudioのショートカットやTipsまとめ（個人的アウト
 AnimatorビューやGameビューなどを最大化して表示
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6c4aae30-5c97-43c7-a26b-22c4426d7753" />
+
+## GitHubに画像ファイルを簡単に貼る方法
+
+GitHubのIssuesに画像をペーストし、そこで生成されたURLをペーストする
