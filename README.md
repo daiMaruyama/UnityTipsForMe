@@ -11,3 +11,7 @@ AnimatorビューやGameビューなどを最大化して表示
 ## GitHubに画像ファイルを簡単に貼る方法
 
 GitHubのIssuesに画像をペーストし、そこで生成されたURLをペーストする
+
+## Visual Studioで　Ctrl + R+R
+
+変数名などを変更する際、一度に全てを変更することができる
