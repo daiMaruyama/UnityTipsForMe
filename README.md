@@ -20,4 +20,6 @@ GitHubのIssuesに画像をペーストし、そこで生成されたURLをペ�
 
 選択した行を一括コメントアウトできる
 
+## Visual Studioで　Ctrl + K　→　Ctrl + U
 
+選択した行を一括アンコメントできる
