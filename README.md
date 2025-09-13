@@ -15,3 +15,9 @@ GitHubのIssuesに画像をペーストし、そこで生成されたURLをペ�
 ## Visual Studioで　Ctrl + R+R
 
 変数名などを変更する際、一度に全てを変更することができる
+
+## Visual Studioで　Ctrl + K　→　Ctrl + C
+
+選択した行を一括コメントアウトできる
+
+
