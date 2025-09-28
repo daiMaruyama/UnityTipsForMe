@@ -23,3 +23,8 @@ GitHubのIssuesに画像をペーストし、そこで生成されたURLをペ�
 ## Visual Studioで　Ctrl + K　→　Ctrl + U
 
 選択した行を一括アンコメントできる
+
+## Visual Studioで使える Ctrl+K, Ctrl+F(D)
+
+Ctrl+K, Ctrl+F → 選択範囲のインデント・改行・スペースを規約通りに揃える (デフォルトは全選択)
+Ctrl+K, Ctrl+D → ファイル全体のインデント・改行・スペースを規約通りに揃える
