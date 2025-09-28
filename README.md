@@ -12,15 +12,15 @@ AnimatorビューやGameビューなどを最大化して表示
 
 GitHubのIssuesに画像をペーストし、そこで生成されたURLをペーストする
 
-## Visual Studioで　Ctrl + R+R
+## Visual Studioで　Ctrl+R+R
 
 変数名などを変更する際、一度に全てを変更することができる
 
-## Visual Studioで　Ctrl + K　→　Ctrl + C
+## Visual Studioで　Ctrl+K　→　Ctrl+C
 
 選択した行を一括コメントアウトできる
 
-## Visual Studioで　Ctrl + K　→　Ctrl + U
+## Visual Studioで　Ctrl+K　→　Ctrl+U
 
 選択した行を一括アンコメントできる
 
